@@ -32,7 +32,7 @@
     },
     "someAppSetting": {
       "type": "string",
-      "defaultValue": "$selfTest App Setting Valuetestself\"><h1>XSSSSSS onload=prompt(1) x="
+      "defaultValue": "{{7*7}}test"
     },
     "repoUrl": {
       "type": "string"
