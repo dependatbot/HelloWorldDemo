@@ -34,10 +34,12 @@
       "defaultValue": "0"
     },
     "repoUrl": {
-      "type": "string"
+      "type": "string",
+      "defaultValue": "https://github.com/dependatbot/HelloWorldDemo"
     },
     "branch": {
-      "type": "string"
+      "type": "string",
+      "defaultValue": "master"
     }
   },
   "resources": [
