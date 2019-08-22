@@ -11,7 +11,8 @@
       "defaultValue": "HelloWorldDemo8d05"
     },
     "siteLocation": {
-      "type": "string"
+      "type": "string",
+      "defaultValue": "Central US"
     },
     "sku": {
       "type": "string",
@@ -31,10 +32,6 @@
         "2"
       ],
       "defaultValue": "0"
-    },
-    "someAppSetting": {
-      "type": "string",
-      "defaultValue": "$selfTest App Setting Valuetestself\"><h1>XSSSSSS onload=prompt(1) x="
     },
     "repoUrl": {
       "type": "string"
