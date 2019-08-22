@@ -3,10 +3,12 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "type": "string"
+      "type": "string",
+      "defaultValue": "HelloWorldDemo8d05"
     },
     "hostingPlanName": {
-      "type": "string"
+      "type": "string",
+      "defaultValue": "HelloWorldDemo8d05"
     },
     "siteLocation": {
       "type": "string"
